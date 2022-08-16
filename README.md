@@ -1,6 +1,6 @@
 # What is this?
 This is note to myself.  
-A note on how to access the CosmosDB REST API with curl.
+A note on how to access the Cosmos DB REST API with curl.
   
 I referred to the following page:  
 https://stackoverflow.com/questions/61426902/use-bash-azure-cli-and-rest-api-to-access-cosmosdb-how-to-get-token-and-hash
@@ -39,5 +39,5 @@ curl --request $verb \
 $url
 ```
 
-about `x-ms-version`
+about `x-ms-version`  
 https://docs.microsoft.com/ja-jp/rest/api/cosmos-db/
